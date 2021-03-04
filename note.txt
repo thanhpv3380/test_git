@@ -3,3 +3,5 @@
 3. This is a lion
 4. This is a bear
 5. This is a grass
+6. This is a laptop
+	
